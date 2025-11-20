@@ -1,0 +1,7 @@
+name = "Bioinformatics Demo"
+description = "Simple GC content and translation with Biopython in the browser."
+
+# Packages to install into the in-browser environment
+packages = [
+  "biopython"
+]
