@@ -1,5 +1,9 @@
 # pyscript
 
+## Deploy
+
+<img width="1131" height="559" alt="image" src="https://github.com/user-attachments/assets/f52f7efe-5fa4-468d-95c7-196071190500" />
+
 ## How does this app work?
 This app performs basic analysis (GC%, complement) for a user defined sequence like the webR and other examples. The files speak to each other as follows:
 * `index.html` lays out the page and imports the pyscript runtime, essentially a interpreter from python to WASM.
